@@ -8,7 +8,7 @@ import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 
 public class MvnTest {
-int i =10, j=2,k=5;
+int i =12, j=3,k=4;
 	@Test
   
   public void mvnTest() {
